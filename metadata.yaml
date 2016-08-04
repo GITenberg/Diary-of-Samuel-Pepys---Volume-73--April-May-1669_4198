@@ -1,0 +1,52 @@
+_repo: Diary-of-Samuel-Pepys---Volume-73--April-May-1669_4198
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bright, Mynors
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '1394'
+    url: http://www.gutenberg.org/2009/agents/1394
+creator:
+  author:
+    agent_name: Pepys, Samuel
+    birthdate: 1633
+    deathdate: 1703
+    gutenberg_agent_id: '1181'
+    url: http://www.gutenberg.org/2009/agents/1181
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Pepys
+  editors:
+  - agent_name: Wheatley, Henry B. (Henry Benjamin)
+    alias: Wheatley, H. B. (Henry Benjamin)
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '205'
+    url: http://www.gutenberg.org/2009/agents/205
+    wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
+  - agent_name: Braybrooke, Richard Griffin, Baron
+    aliases:
+    - Neville, Richard
+    - Griffin, Richard, Baron Braybrooke
+    birthdate: 1783
+    deathdate: 1858
+    gutenberg_agent_id: '1182'
+    url: http://www.gutenberg.org/2009/agents/1182
+description: ''
+gutenberg_issued: '2003-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- 17th century -- Sources'
+- !lcsh 'Great Britain -- History -- Charles II, 1660-1685 -- Sources'
+- !lcsh 'Diarists -- Great Britain -- Diaries'
+- !lcsh 'Cabinet officers -- Great Britain -- Diaries'
+- !lcsh 'Pepys, Samuel, 1633-1703 -- Diaries'
+- !lcc 'DA'
+- GITenberg
+title: 'Diary of Samuel Pepys — Volume 73: April/May 1669'
+url: http://www.gutenberg.org/ebooks/4198
