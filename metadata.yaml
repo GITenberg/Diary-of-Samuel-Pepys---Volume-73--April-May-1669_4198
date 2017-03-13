@@ -1,5 +1,5 @@
 _repo: Diary-of-Samuel-Pepys---Volume-73--April-May-1669_4198
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Bright, Mynors
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1883
     gutenberg_agent_id: '1394'
     url: http://www.gutenberg.org/2009/agents/1394
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pepys, Samuel
@@ -32,6 +35,8 @@ creator:
     gutenberg_agent_id: '1182'
     url: http://www.gutenberg.org/2009/agents/1182
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4198#Diary-of-Samuel-Pepys---Volume-73--April-May-1669
 gutenberg_issued: '2003-06-01'
 gutenberg_type: Text
 identifiers:
